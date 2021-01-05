@@ -1,16 +1,14 @@
-### Hi there 👋
+# Whoami?
 
-<!--
-**gasacchi/gasacchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Assalamu'alaikum folks, I self taught developer and Linux enthusiast. I living in Indonesia, still figuring out "How to make money with Code".
+Well I don't have degree in CS, but love to learn new things about Technology.
 
-Here are some ideas to get you started:
+## Some Programming Language and Technology that i currently learning:
+- Linux (Build linux from Scratch)
+- Rust
+- ReScript (a.k.a Buclescript and ReasonML)
+- Lua
+- Neovim
+- Compiler ( Still trying to Build one)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I hope some of you wil find and learn something useful with my repo!
