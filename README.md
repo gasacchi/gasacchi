@@ -8,6 +8,7 @@ Well I don't have degree in CS, but love to learn new things about Technology.
 - Rust
 - ReScript (a.k.a Buclescript and ReasonML)
 - Lua
+- Crystal
 - Neovim
 - Compiler ( Still trying to Build one)
 
