@@ -5,10 +5,9 @@ Well I don't have degree in CS, but love to learn new things about Technology.
 
 ## Some Programming Language and Technology that i currently learning:
 - Linux (Build linux from Scratch)
-- Rust
-- ReScript (a.k.a Buclescript and ReasonML)
+- ReScript (a.k.a Buclescript)
+- ReasonML
 - Lua
-- Crystal
 - Neovim
 - Compiler ( Still trying to Build one)
 
