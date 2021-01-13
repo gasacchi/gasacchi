@@ -1,4 +1,19 @@
 {
+  "name": "gasacchi",
+  "version": "1.0.0",
+  "author": "Gasacchi <6asacchi@gmail.com>",
+  "license": "MIT",
+   "scripts": {
+    "dev": "next dev",
+    "debug": "NODE_OPTIONS='--inspect' next",
+    "build": "bsb -clean-world -make-world && next build",
+    "now-build": "bsb -clean-world -make-world && next build",
+    "export": "next export",
+    "start": "next start -p $PORT",
+    "res:build": "bsb -make-world",
+    "res:clean": "bsb -clean-world",
+    "res:start": "bsb -make-world -w"
+  },
   "dependencies": {
     "next": "^10.0.5",
     "react": "^17.0.1",
