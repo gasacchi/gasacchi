@@ -5,10 +5,10 @@ Well I don't have degree in CS, but love to learn new things about Technology.
 
 ## Some Programming Language and Technology that i currently learning:
 - Linux
-- Haskell
-- Purescript
+- SvelteKit
+- Typescript
 - Neovim
--  Language Design
+- Language Design
 - Compiler ( Still trying to Build one)
 
 ### I hope some of you wil find and learn something useful with my repo!
